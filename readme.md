@@ -1,8 +1,3 @@
-### USB Test Demo
+### USB Transfer
 
-This demo tests usb api
-
----
-
-This demo is a part of the C SDK Toolchain for use on the CE.
-
+Based heavily on the usb test demo in the CE toolchain (here)[https://github.com/CE-Programming/toolchain/tree/usbdrvce/examples/usb_test].
